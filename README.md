@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/cat-gif-13001731354452076648" width="400"/>
+  <img src="https://media1.tenor.com/m/tG9tx98sqGgAAAAd/cat.gif" width="400"/>
 </div>
 
 # NeuralAIaimbotXD
